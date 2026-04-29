@@ -1,0 +1,17 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# C Backend
+C/*.exe
+C/*.o
+C/*.out
+
+# Go Backend
+Go/bin/
+Go/*.exe
+
+# Misc
+.DS_Store
+.vscode/
