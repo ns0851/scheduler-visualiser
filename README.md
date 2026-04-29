@@ -1,4 +1,7 @@
 # Scheduler Visualiser
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
 
 This simulates scheduling algorithms and shows how processes run over time using a Gantt chart and Process table. 
 The backend logic is written in C, the UI is in React, and Go is used as a bridge for JSON communication.
@@ -65,7 +68,7 @@ Main effort went into:
 
 Known issue:
 
-- MLFQ timeline isn’t perfectly reflected in the frontend yet — logic is correct, just needs better visual mapping (working on edge cases)
+- MLFQ visualisation is being actively improved - logic is correct, frontend mapping is being refined.
 
 ---
 
